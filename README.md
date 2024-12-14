@@ -8,6 +8,8 @@ Este proyecto es una aplicación interactiva desarrollada en **Streamlit** que u
 - **Animaciones Lottie**: integración mediante la librería `streamlit_lottie`.
 - **Spinner animado**: representación visual de procesos en curso con feedback al usuario.
 
+https://lottie2.streamlit.app/
+
 ## Requisitos
 
 Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes paquetes:
